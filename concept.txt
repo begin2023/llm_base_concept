@@ -1,0 +1,38 @@
+1. cuda graph
+2. cpu overlap
+3. 算子融合
+4. flashattention 和 flashinfer
+5. moe
+6. function call、agent
+7. mcp
+8. context engineer
+9. prompt engineer
+10. zero mq
+11. paged attention
+12. RDMA
+13. Continuous Batching
+14. KV Cache 管理
+15. 量化（AWQ/GPTQ/FP8）
+16. 模型加载加速
+17. 结构化输出
+18. vllm 对比 sglang
+19. mtp 投机解码、mtp3
+20. pd 分离
+21. AF 分离
+22. 可观测、性能分析
+23. 分布式分离策略
+24. 每一个权重的含义
+25. 推理续写
+26. MHA、GQA、MQA、MLA、Cross Attention、DSA（deepseek）、NSA（deepseek）
+27. Transformer 位置编码（RoPE、ALiBi）
+28. Prefix Caching / Radix Attention
+29. Chunked Prefill
+30. RLHF / DPO / GRPO
+31. 长上下文推理（Ring Attention、序列并行）
+32. 多模态推理（Vision Encoder + LLM）
+33. RoPE Scaling / NTK-Aware 长度外推
+34. Guided Decoding / Constrained Decoding
+35. Tokenizer（BPE、SentencePiece）
+36. Sampling 策略（Temperature、Top-K、Top-P、Min-P）
+37. LoRA / QLoRA 推理适配
+38. 显存估算与模型部署规划
