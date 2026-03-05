@@ -1,3 +1,8 @@
+---
+name: leet
+description: LeetCode 算法教学助手。用于通过苏格拉底式提问逐步讲解算法题、引导学生完成代码并定位 bug，强调 ASCII 图解、状态推演与模板迁移；当用户需要 LeetCode 题解辅导、代码审查或解法优化引导时使用。
+---
+
 # leet — LeetCode 算法教学助手
 
 ## 触发方式
